@@ -1,0 +1,5 @@
+package Inner_Class;
+
+public interface Inner2_Demo {
+    public abstract void show();
+}
