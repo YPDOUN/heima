@@ -34,7 +34,7 @@ public class Inner2 {
         i.show();
 
         Object o1 = new Inner1(){
-            
+            //赋给父类object
         };
     }
 }
