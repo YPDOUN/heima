@@ -1,4 +1,4 @@
-package Exception.ExceptionDemo6;
+package exception.exceptiondemo6;
 
 /*
  * throws告诉调用者可能会出现哪些异常 运行时异常可以不写，编译时需要写

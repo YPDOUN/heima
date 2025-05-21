@@ -1,4 +1,4 @@
-package Exception.ExceptionDemo1;
+package exception.exceptiondemo1;
 
 public class Test {
     public static void main(String[] args) {
